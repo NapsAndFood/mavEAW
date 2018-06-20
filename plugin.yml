@@ -1,4 +1,9 @@
 main: me.Phitros.MavEAW.Main
-version: 0.01
+version: 0.2
 name: EmpiresAtWar
-description: Developed by Phitros
+description: Developed by Phitros and Mancye
+
+commands:
+    eaw:
+        description: Base command for Empires at War
+        usage: /eaw
